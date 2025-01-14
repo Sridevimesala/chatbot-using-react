@@ -21,10 +21,6 @@ for easy guide go to [npm material-ui core](https://www.npmjs.com/package/@mater
 
 you can use jquery for solve inbuilde jquery
 for easy guide go to [npm jquery](https://www.npmjs.com/package/jquery).
-
-## coding section
-
-### [Config](https://github.com/sridevi/chatbot-using-react/blob/main/src/Config.jsx)
 this section is use for initialize chatbot configurations
 
 <b>Properties:</b>
@@ -78,13 +74,4 @@ scrollIntoView - helper function to scroll content into view when doing asynchro
 
 fetch data using API and use in widget, live display by statechange
 
-[Live Demo](https://Sridevimesala.github.io/chatbot-using-react/)
 
-## PreView
-
-![image](https://user-images.githubusercontent.com/67643835/116774570-53620c80-aa12-11eb-9131-402d55f15e5d.png)
-![image](https://user-images.githubusercontent.com/67643835/116774581-6c6abd80-aa12-11eb-8ccb-a03823de97de.png)
-![image](https://user-images.githubusercontent.com/67643835/116774596-83a9ab00-aa12-11eb-9413-0a69e51f9345.png)
-![image](https://user-images.githubusercontent.com/67643835/116774652-ed29b980-aa12-11eb-9350-264b6fd70180.png)
-![image](https://user-images.githubusercontent.com/67643835/116774727-63c6b700-aa13-11eb-9790-91e5c1d92459.png)
-![image](https://user-images.githubusercontent.com/67643835/116774747-7e009500-aa13-11eb-9ff9-846b54d92496.png)
